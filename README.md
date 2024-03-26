@@ -1,3 +1,5 @@
+made by 1tae
+
 ## filename 수정하여 result 파일 경로와 파일명 설정
 
 앱 실행 시 Form1.Form1() 동작
