@@ -1,4 +1,4 @@
-## String filename = "C:\\Users\\tashu\\Documents\\test_result\\~~~.bin"; 수정하여 result 파일 경로와 파일명 설정
+## filename 수정하여 result 파일 경로와 파일명 설정
 
 앱 실행 시 Form1.Form1() 동작
 ## Form1.Form()
